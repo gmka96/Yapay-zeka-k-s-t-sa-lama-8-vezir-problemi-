@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\ereno\documents\visual studio 2015\projects\kendiyazdıgım\kendiyazdıgım\source.cpp(184): warning C4309: 'initializing': truncation of constant value
+c:\users\ereno\documents\visual studio 2015\projects\kendiyazdıgım\kendiyazdıgım\source.cpp(191): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ereno\documents\visual studio 2015\projects\kendiyazdıgım\kendiyazdıgım\source.cpp(70): warning C4715: 'ekle': not all control paths return a value
+c:\users\ereno\documents\visual studio 2015\projects\kendiyazdıgım\kendiyazdıgım\source.cpp(111): warning C4715: 'sil': not all control paths return a value
+  kendiyazdıgım.vcxproj -> c:\users\ereno\documents\visual studio 2015\Projects\kendiyazdıgım\Debug\kendiyazdıgım.exe
+  kendiyazdıgım.vcxproj -> c:\users\ereno\documents\visual studio 2015\Projects\kendiyazdıgım\Debug\kendiyazdıgım.pdb (Full PDB)
